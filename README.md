@@ -4,7 +4,7 @@
 - 🌱 We have more than 20 years of experience in software development, from UI/UX design, 
   custom application and product development, Cloud Native application design, development and migration, implementing 
   Systems software (compilers, linkers, loaders...), implementing AI/ML algorithms and data pipelines, implementing 
-  scientific software to writing low latency TCP/IP network services.
+  scientific software to writing low latency TCP/IP network services and modernization of legacy applications.
 - 📫 Please feel free to reach out to us by emailing to mailto:baranasoftware@gmail.com, and we can discuss 
   how we can collaborate with you and your team to turn your idea into a product or help with your project.
 
