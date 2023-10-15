@@ -12,8 +12,8 @@
 - ⚒️ Programming Languages — x86 Assembly, C, C++, Go, Rust, Java, Python, Javascript, Typescript, Erlang, COBOL.
 - ⚒️ Cloud Platforms — AWS, GCP, Azure.
 - ⚒️ Frameworks —
-  - Spring/SpringBoot, Maven/Gradle, Make, CMake, Cargo, SQL, PL/SQL, Terraform, Docker, Angular, HTML5/CSS, AMQP, JMS, 
-    Security Best Practices, DevOps, Platform Architecture, React/Redux, Angular, Vue.js, Django, Flask ...
+  - Spring/SpringBoot, Maven/Gradle, Make, CMake, Cargo, SQL, PL/SQL, Terraform, Docker, AMQP, JMS, 
+    Security Best Practices, DevOps, Platform Architecture, React/Redux, Angular, Vue.js, HTML5/CSS, Django, Flask ...
   - HTTP, REST, GraphQL, Protocol Buffers, SOAP, XML, JSON, SAML, SSO, WebSockets, Server-sent events, TCP/IP ...
   - LLVM, Code Generations, x86, Lex & Yacc ...  
   - pandas, scikit-learn, Kaggle, TensorFlow ...
@@ -35,9 +35,9 @@
   - COBOL Modernization.
   - Data encryption technologies at rest and in transit, HIPAA, PCI, Cloud compliance and audits.
   - Business Process Automation.
-  - Digital Transformations.
-  - Odoo Consulting.
-  - WSO2 Consulting.
+  - Digital Transformation.
+  - [Odoo](https://www.odoo.com/) Consulting.
+  - [WSO2](https://wso2.com/) Consulting.
 - ⚒️ Application and Product Development
   - DSL, Compiler/Linkers/Loaders Implementation.
   - Implementing Standard Libraries.
