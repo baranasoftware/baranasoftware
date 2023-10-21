@@ -11,8 +11,8 @@
 ### Skills and Expertise 🔨🔧  
 - ⚒️ Programming Languages — x86 Assembly, MATLAB, C, C++, Go, Rust, Java, Python, Javascript, Typescript, Erlang, COBOL.
 - ⚒️ Cloud Platforms — AWS, GCP, Azure.
-- ⚒️ Frameworks
-  - Spring/SpringBoot, Maven/Gradle, Make, CMake, Cargo, SQL, PL/SQL, Terraform, Docker, AMQP, JMS, 
+- ⚒️ Frameworks and Tools
+  - Spring/SpringBoot, hyper, Maven/Gradle, Make, CMake, Cargo, SQL, PL/SQL, Terraform, Docker, AMQP, JMS, 
     Security Best Practices, DevOps, Platform Architecture, React/Redux, Angular, Vue.js, HTML5/CSS, Django, Flask ...
   - HTTP, REST, GraphQL, Protocol Buffers, SOAP, XML, JSON, SAML, SSO, WebSockets, Server-sent events, TCP/IP ...
   - LLVM, Code Generations, x86, Lex & Yacc ...  
