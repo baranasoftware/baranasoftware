@@ -9,7 +9,7 @@
   how we can collaborate with you and your team to turn your idea into a product or help with your project.
 
 ### Skills and Expertise 🔨🔧  
-- ⚒️ Programming Languages — x86 Assembly, MATLAB, C, C++, Go, Rust, Java, Python, Javascript, Typescript, Erlang, COBOL.
+- ⚒️ Programming Languages — x86 Assembly, MATLAB, C, C++, Go, Rust, Java, Python, Javascript, Typescript, Erlang, COBOL, APL.
 - ⚒️ Cloud Platforms — AWS, GCP, Azure.
 - ⚒️ Frameworks and Tools
   - Spring/SpringBoot, hyper, SQL, PL/SQL, Terraform, Docker, AMQP, JMS, Security Best Practices, DevOps, Platform Architecture, React/Redux, Angular, Vue.js, HTML5/CSS, Django, Flask ...
