@@ -9,14 +9,15 @@
   how we can collaborate with you and your team to turn your idea into a product or help with your project.
 
 ### Skills and Expertise 🔨🔧  
-- ⚒️ Programming Languages — x86 Assembly, MATLAB, C, C++, Go, Rust, Java, Python, Javascript, Typescript, Erlang, COBOL, APL.
+- ⚒️ Programming Languages — x86 Assembly, MATLAB, C, C++, Go, Rust, Java, Python, Javascript, Typescript, Erlang, Zig, COBOL, APL.
 - ⚒️ Cloud Platforms — AWS, GCP, Azure.
 - ⚒️ Frameworks and Tools
-  - Spring/SpringBoot, hyper, SQL, PL/SQL, Terraform, Docker, AMQP, JMS, Security Best Practices, DevOps, Platform Architecture, React/Redux, Angular, Vue.js, HTML5/CSS, Django, Flask ...
+  - Spring/SpringBoot, hyper, SQL, PL/SQL, Terraform, Docker, AMQP, JMS, React/Redux, Angular, Vue.js, HTML5/CSS, Django, Flask ...
   - HTTP, REST, GraphQL, Protocol Buffers, SOAP, XML, JSON, SAML, SSO, WebSockets, Server-sent events, TCP/IP ...
   - LLVM, Code Generations, x86, Lex & Yacc ...  
   - NumPy, pandas, scikit-learn, Kaggle, TensorFlow ...
   - Maven/Gradle, Make, CMake, Cargo ...
+  - Figma, Inkscape ...
 - ⚒️ Specialties
   - UI/UX Design and Interface Design.
   - Application and Product Development.
@@ -32,8 +33,9 @@
   - Low Latency Networking Software Development.
   - AI/ML Algorithm and Application Implementation.
   - DevOps and CI/CD.
+  - Platform Architecture.
   - COBOL Modernization.
-  - Data encryption technologies at rest and in transit, HIPAA, PCI, Cloud compliance and audits.
+  - Security best practises, Data encryption technologies at rest and in transit, HIPAA, PCI, Cloud compliance and audits.
   - Business Process Automation.
   - Digital Transformation.
   - [Odoo](https://www.odoo.com/) Consulting.
