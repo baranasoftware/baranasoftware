@@ -8,46 +8,23 @@
 - 📫 Please feel free to reach out to us by emailing to contact@baranasoftware.com, and we can discuss 
   how we can collaborate with you and your team to turn your idea into a product or help with your project.
 
-### Skills and Expertise 🔨🔧  
-- ⚒️ Programming Languages — x86 Assembly, MATLAB, C, C++, Go, Rust, Java, Python, Javascript, Typescript, Erlang, Zig, COBOL, APL.
-- ⚒️ Cloud Platforms — AWS, GCP, Azure.
-- ⚒️ Frameworks and Tools
-  - Spring/SpringBoot, hyper, SQL, PL/SQL, Terraform, Docker, AMQP, JMS, React/Redux, Angular, Vue.js, HTML5/CSS, Django, Flask ...
-  - HTTP, REST, GraphQL, Protocol Buffers, SOAP, XML, JSON, SAML, SSO, WebSockets, Server-sent events, TCP/IP ...
-  - LLVM, Code Generations, x86, Lex & Yacc ...  
-  - NumPy, pandas, scikit-learn, Kaggle, TensorFlow ...
-  - Maven/Gradle, Make, CMake, Cargo ...
-  - Figma, Inkscape ...
-- ⚒️ Specialties
-  - UI/UX Design and Interface Design.
-  - Application and Product Development.
-  - Cloud Migrations.
-  - Legacy Application Refactoring and Migrations to modern stacks/frameworks to cloud environments.
-  - API design, API implementation and documentation, API execution, High transaction systems, SLOs/SLAs.
-  - Service Oriented Architecture, Micro-Services, Message/Event based architectures, asynchronous systems, 
-    distributed systems, Cloud Native system design, solution architecture in the Cloud and on-prem, message based and 
-    event driven highly available architectures, Domain-Driven Design (DDD), Object-Oriented Design and Analysis, 
-    Data Oriented design and programming (DOP).
-  - Systems Programming.
-  - TCP/IP Programming.
-  - Low Latency Networking Software Development.
-  - AI/ML Algorithm and Application Implementation.
-  - DevOps and CI/CD.
-  - Platform Architecture.
-  - COBOL Modernization.
-  - Security best practises, Data encryption technologies at rest and in transit, HIPAA, PCI, Cloud compliance and audits.
-  - Business Process Automation.
-  - Digital Transformation.
-  - [Odoo](https://www.odoo.com/) Consulting.
-  - [WSO2](https://wso2.com/) Consulting.
-- ⚒️ Application and Product Development
-  - DSL, Compiler/Linkers/Loaders Implementation.
-  - Implementing Standard Libraries.
-  - Scientific Programming and Mathematical Software Implementation.
-- ⚒️ Domain Data Expertise
-  - Higher Education Data.
-  - Health Insurance Data (Quotes, Medicare, Medicaid).
+### 🔨🔧 Tech Stack  
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 Trademarks and registered trademarks are the properties of their respective owners.
 
