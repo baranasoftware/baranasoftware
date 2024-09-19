@@ -1,10 +1,10 @@
 ### 👋 Hi
 
 - 🔭 We provide software product development and consultancy services.
-- 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed,
+- 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
-- 📫 Please feel free to reach out to us by emailing to contact@baranasoftware.com, and we can discuss
-  how we can collaborate with you and your team to turn your idea into a product or help with your project.
+- 📫 You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to 
+   turn your idea into a product or help with your project.
 
 ### 🔨🔧 Tech Stack
 
