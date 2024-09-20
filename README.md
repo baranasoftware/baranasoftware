@@ -3,23 +3,26 @@
 - 🔭 We provide software product development and consultancy services.
 - 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
-- 📫 You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to 
-   turn your idea into a product or help with your project.
+- 📫 You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to
+  turn your idea into a product or help with your project.
 
 ## 🔨🔧 Tech Stack
 
 <p>
-     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" />
-     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"/>
-     <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" />
-     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust"/>
-     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"/>
-     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"/>
-     <img src="images/matlab.svg" alt="MATLAB" height="55"/>
-     <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="MATLAB" height="55"/>
-     <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="Zig"/>
-     <img src="images/assembly.svg" alt="Assembly" height="55"/>
-     <img src="images/LLVM.svg" alt="LLVM" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" width="80"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40"/>
+    <img src="images/matlab.svg" alt="MATLAB" width="55"/>
+    <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="MATLAB" width="50"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" />
+    <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="Zig"/>
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust"/>
+</p>
+
+<p>
+    <img src="images/LLVM.svg" alt="LLVM" height="55"/>
+    <img src="images/assembly.svg" alt="Assembly" height="55"/>
 </p>
 
 <p>
