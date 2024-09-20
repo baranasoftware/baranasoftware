@@ -1,12 +1,12 @@
-### 👋 Hi
+## 👋 Hi
 
 - 🔭 We provide software product development and consultancy services.
 - 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
--  You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to 
+- 📫 You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to 
    turn your idea into a product or help with your project.
 
-### 🔨🔧 Tech Stack
+## 🔨🔧 Tech Stack
 
 <p>
      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" />
