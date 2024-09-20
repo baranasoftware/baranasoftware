@@ -9,15 +9,15 @@
 ## 🔨🔧 Tech Stack
 
 <p>
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" width="80"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40"/>
-    <img src="images/matlab.svg" alt="MATLAB" width="55"/>
-    <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="MATLAB" width="50"/>
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" />
-    <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="Zig"/>
-    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust"/>
+    <img src="images/matlab.svg" alt="MATLAB" width="50"/>
+    <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="MATLAB" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="Zig" height="50"/>
 </p>
 
 <p>
