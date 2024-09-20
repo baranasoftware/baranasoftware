@@ -4,7 +4,7 @@
 - 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
 - ⚙️ Our expertise includes delivering user facing application to implementing lower level system software.
-- 📫 You can contact us by emailing contact@baranasoftware.com. We can discuss how we can collaborate with you to
+- 📫 You can contact us by emailing contact@baranasoftware.com. We are happy to discuss how we can collaborate with you to
   turn your idea into a product or help with your project.
 
 ## 🔨🔧 Tech Stack
