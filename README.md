@@ -3,7 +3,7 @@
 - 🔭 We provide software product development and consultancy services.
 - 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
-- 📫 You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to 
+-  You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to 
    turn your idea into a product or help with your project.
 
 ### 🔨🔧 Tech Stack
@@ -58,22 +58,3 @@
   <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM" height="55"/>
 </p>
-
-### 👷 Specialities
-
-- UI/UX design and interface design.
-- Application and product design and development.
-- Cloud Native app design and development.
-- API design, API implementation and documentation, API execution, High transaction systems, SLOs/SLAs.
-- Service Oriented Architecture, Micro-Services, Message/Event based architectures, asynchronous systems.
-- Domain-Driven Design (DDD), Object-Oriented Design and Analysis, Data Oriented design and programming (DOP).
-- Scientific programming and mathematical software implementation.
-- AI/ML algorithm, data intensive application and data pipelines implementation.
-- Systems programming (drivers, compiler, linkers and loaders...).
-- TCP/IP programming.
-- Low latency networking software development.
-- DevOps and CI/CD.
-- Platform Architecture.
-- Legacy and COBOL application modernization.
-- Security best practises, data encryption technologies at rest and in transit, FERPA, HIPAA, PCI, Cloud compliance and
-  audits.
