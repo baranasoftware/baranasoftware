@@ -3,13 +3,14 @@
 - 🔭 We provide software product development and consultancy services.
 - 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
-- 📫 You can contact us by emailing contact@baranasoftware.com, and we can discuss how we can collaborate with you to
+- ⚙️ Our expertise includes delivering user facing application to implementing lower level system software.
+- 📫 You can contact us by emailing contact@baranasoftware.com. We can discuss how we can collaborate with you to
   turn your idea into a product or help with your project.
 
 ## 🔨🔧 Tech Stack
 
 <p>
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="35"/>
@@ -57,7 +58,7 @@
 </p>
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="CMake" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="CMake" height="35"/>
 </p>
