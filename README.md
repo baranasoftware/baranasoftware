@@ -62,3 +62,6 @@
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="CMake" height="35"/>
 </p>
+
+## 💻 Projects Portfolio
+* [Design and Implementation of a REST API for Curricular data in Higher Education](https://github.com/baranasoftware/curricular-api)
