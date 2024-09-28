@@ -68,3 +68,4 @@
 * [UX Design and Implementation for a Background Search app](https://github.com/baranasoftware/background-app)
 * [Writing a Compiler Using LLVM: Building a BigNum Calculator](https://github.com/baranasoftware/bignum)
 * [High Performance EDI parser and library using Zig lang](https://github.com/baranasoftware/edi)
+* [Collections of Zig Examples](https://github.com/baranasoftware/zig-examples)
