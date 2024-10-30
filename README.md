@@ -71,5 +71,5 @@
 * [High Performance EDI parser and library using Zig](https://github.com/baranasoftware/edi)
 * [Collections of Zig Examples](https://github.com/baranasoftware/zig-examples)
 * [Collection of System Programming Examples in C](https://github.com/baranasoftware/system)
-* [Example Linker Written in Go](https://github.com/baranasoftware/linker)
-* [MS Teams Client Library Written in Go](https://github.com/baranasoftware/ms-teams)
+* [Lexer and Parser for Parsing Query Parameters Written in Go](https://github.com/baranasoftware/query-parser)
+* [Example Linker Written in Rust](https://github.com/baranasoftware/linker)
