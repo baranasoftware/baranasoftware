@@ -1,6 +1,6 @@
 ## 👋 Hi
 
-- 🔭 We provide software product development and consultancy services.
+- 🔭 We (Barana/Bɑːrɑːnɑː/ Software) provide software product development and consultancy services.
 - 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
 - ⚙️ Our expertise includes delivering user facing applications to implementing data-intensive AI/ML data pipelines to lower level system software.
