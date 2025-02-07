@@ -66,6 +66,7 @@
 ## 💻 Projects Portfolio
 * [Design and Implementation of a REST API for Curricular data in Higher Education](https://github.com/baranasoftware/curricular-api)
 * [UX Design Portfolio](https://github.com/baranasoftware/ux-design)
+* [Development of an AI Agent](https://github.com/baranasoftware/ai-agent)
 * [UX Design and Implementation for a Directory Service app](https://github.com/baranasoftware/directory-service)
 * [UX Design and Implementation for a Background Search app](https://github.com/baranasoftware/background-app)
 * [Writing a Compiler Using LLVM: Building a BigNum Calculator](https://github.com/baranasoftware/bignum)
