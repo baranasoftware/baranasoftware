@@ -3,8 +3,10 @@
 - 🔭 We (Barana/Bɑːrɑːnɑː/ Software) provide software product development and consultancy services.
 - 🌱 We have 20+ years of experience in application and solution developments for Healthcare, Retail, Higher-Ed and
   Telecom... industries.
-- ⚙️ Our expertise includes delivering user facing applications to implementing data-intensive AI/ML data pipelines to lower level system software(compilers, linkers etc..) implementation.
-- 📫 You can contact us by emailing contact@baranasoftware.com. We are happy to discuss how we can collaborate with you to
+- ⚙️ Our expertise includes delivering user facing applications to implementing data-intensive AI/ML data pipelines to
+  lower level system software(compilers, linkers etc..) implementation.
+- 📫 You can contact us by emailing contact@baranasoftware.com. We are happy to discuss how we can collaborate with you
+  to
   turn your idea into a product or help with your project.
 
 ## 🔨🔧 Tech Stack
@@ -16,7 +18,7 @@
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="35"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30"/>
     <img src="images/matlab.svg" alt="MATLAB" width="30"/>
-    <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="MATLAB" width="30"/>
+    <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="c" width="30"/>
     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="Zig" height="40"/>
 </p>
@@ -64,14 +66,18 @@
 </p>
 
 ## 💻 Projects Portfolio
-* [Design and Implementation of a REST API for Curricular data in Higher Education](https://github.com/baranasoftware/curricular-api)
-* [UX Design Portfolio](https://github.com/baranasoftware/ux-design)
-* [Development of an AI Agent](https://github.com/baranasoftware/ai-agent)
-* [UX Design and Implementation for a Directory Service app](https://github.com/baranasoftware/directory-service)
-* [UX Design and Implementation for a Background Search app](https://github.com/baranasoftware/background-app)
-* [Writing a Compiler Using LLVM: Building a BigNum Calculator](https://github.com/baranasoftware/bignum)
-* [High Performance EDI parser and library using Zig](https://github.com/baranasoftware/edi)
-* [Collections of Zig Examples](https://github.com/baranasoftware/zig-examples)
-* [Collection of System Programming Examples in C](https://github.com/baranasoftware/system)
-* [Lexer and Parser for Parsing Query Parameters Written in Go](https://github.com/baranasoftware/query-parser)
-* [Example Linker Written in Rust](https://github.com/baranasoftware/linker)
+
+| Project                                                                                                                             | Tech Stack                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Design and Implementation of a REST API for Curricular data in Higher Education](https://github.com/baranasoftware/curricular-api) | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height="40"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="40">  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" height="40">  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="40"> |
+| [UX Design Portfolio](https://github.com/baranasoftware/ux-design)                                                                  | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="40">  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="40">                                                                                                                                                                         |
+| [UX Design and Implementation for a Directory Service app](https://github.com/baranasoftware/directory-service)                     | <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="30"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="30"/>                                                                                                                                                |
+| [UX Design and Implementation for a Background Search app](https://github.com/baranasoftware/background-app)                        | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" height="40">                                                                                                                                                                             |
+| [Writing a Compiler Using LLVM: Building a BigNum Calculator](https://github.com/baranasoftware/bignum)                             | <img src="images/LLVM.svg" alt="LLVM" height="30"/>                                                                                                                                                                                                                                                                                                                  |
+| [High Performance EDI parser and library using Zig](https://github.com/baranasoftware/edi)                                                                                                                                    | <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="Zig" height="40"/>                                                                                                                                                                                                                                                                        |
+|[Lexer and Parser for Parsing Query Parameters Written in Go](https://github.com/baranasoftware/query-parser)| <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" height="45"/>                                                                                                                                                                                                                                                                           |
+|[Example Linker Written in Rust](https://github.com/baranasoftware/linker)| <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" height="30"/>                                                                                                                                                                                                                                                                   |
+| [Development of an AI Agent](https://github.com/baranasoftware/ai-agent)                                                            | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30"/>                                                                                                                                                                                                                                                                        |
+|[Collections of Zig Examples](https://github.com/baranasoftware/zig-examples)| <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="Zig" height="40"/>                                                                                                                                                                                                                                                                        |
+|[Collection of System Programming Examples in C](https://github.com/baranasoftware/system)| <img src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg" alt="c" width="30"/>                                                                                                                                                                                                                                                                 |
+
